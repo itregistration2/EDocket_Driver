@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "193236426140",
+    "project_id": "edocketdriver",
+    "storage_bucket": "edocketdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193236426140:android:7fcdecafbd7e48030e7c59",
+        "android_client_info": {
+          "package_name": "com.edocket.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193236426140-m76l7bk0na765d0p75j03c839mfeqsls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edocket.driver",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "193236426140-uoibmhnu6ti3hr1hu5p74btopji82kme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNehwM3n72OKxrQIDKGxUhkq17RzNdGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193236426140-uoibmhnu6ti3hr1hu5p74btopji82kme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193236426140-9ji7c0te8tplr1jmhk93mgmsj4kg5djd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edocketdriver.ios",
+                "app_store_id": "1629209933"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

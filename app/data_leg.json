@@ -1,0 +1,178 @@
+{
+   "Plant": "STW",
+   "ScoreboardType": "LegC",
+   "CurrentTruckSequence": "1",
+   "CurrentTruckStatus": "LegC",
+   "Reminder": "",
+   "DriverPortalScoreboard": null,
+   "Lightbulds": [
+      {
+         "Type": "Wait",
+         "Color": null
+      },
+      {
+         "Type": "Enter",
+         "Color": null
+      },
+      {
+         "Type": "ApproachLeg",
+         "Color": "#0FA73A"
+      }
+   ],
+   "Waiting": {
+      "RecordType": "Waiting",
+      "IsColumnShown": true,
+      "ColumnReminder": "",
+      "ColumnReminderColor": "",
+      "ScoreboardList": [
+         {
+            "Sequence": 1,
+            "Truck": "8808",
+            "TruckStatus": "",
+            "TextColor": "#EFEFEF",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         }
+      ]
+   },
+   "Enter": {
+      "RecordType": "EnterPlant",
+      "IsColumnShown": true,
+      "ColumnReminder": "",
+      "ColumnReminderColor": "",
+      "ScoreboardList": [
+         {
+            "Sequence": 1,
+            "Truck": "8808",
+            "TruckStatus": "",
+            "TextColor": "red",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         }
+      ]
+   },
+   "LegA": {
+      "RecordType": "LegA",
+      "IsColumnShown": true,
+      "ColumnReminder": "",
+      "ColumnReminderColor": "",
+      "ScoreboardList": [
+         {
+            "Sequence": 1,
+            "Truck": "8808",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 2,
+            "Truck": "8321",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         }
+      ]
+   },
+   "LegB": {
+      "RecordType": "LegB",
+      "IsColumnShown": true,
+      "ColumnReminder": "",
+      "ColumnReminderColor": "",
+      "ScoreboardList": [
+         {
+            "Sequence": 1,
+            "Truck": "RY9499",
+            "TruckStatus": "",
+            "TextColor": "#FFFFFF",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 2,
+            "Truck": "8214",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 3,
+            "Truck": "8234",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 4,
+            "Truck": "8244",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 5,
+            "Truck": "8314",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         },
+         {
+            "Sequence": 6,
+            "Truck": "8414",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         }
+      ]
+   },
+   "LegC": {
+      "RecordType": "LegC",
+      "IsColumnShown": true,
+      "ColumnReminder": "",
+      "ColumnReminderColor": "",
+      "ScoreboardList": [
+         {
+            "Sequence": 1,
+            "Truck": "8601",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": true
+         },
+         {
+            "Sequence": 2,
+            "Truck": "8809",
+            "TruckStatus": "",
+            "TextColor": "",
+            "TextBackgroundColor": "",
+            "TextIsBold": false
+         }
+      ]
+   },
+   "LegD": {
+      "RecordType": "LegD",
+      "IsColumnShown": false,
+      "ColumnReminder": null,
+      "ColumnReminderColor": null,
+      "ScoreboardList": []
+   },
+   "LegE": {
+      "RecordType": "LegE",
+      "IsColumnShown": false,
+      "ColumnReminder": null,
+      "ColumnReminderColor": null,
+      "ScoreboardList": []
+   },
+   "response": {
+      "IsSuccessful": true,
+      "Message": "",
+      "MessageType": "Success",
+      "ValidationErrors": null
+   }
+}

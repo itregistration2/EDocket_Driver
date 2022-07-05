@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:crashlytics-core:2.7.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/01f2c96106b22f3d2517ff73ad0d63c4/transformed/jetified-crashlytics-core-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c76c652e6d87ff67f8f75df92abc3efb/transformed/jetified-crashlytics-core-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72a1d4116d3705421b925c712cd39bb9/transformed/jetified-crashlytics-core-2.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5afb3618501ff1cdb4a2366a1e72763e/transformed/jetified-crashlytics-core-2.7.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5afb3618501ff1cdb4a2366a1e72763e/transformed/jetified-crashlytics-core-2.7.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5afb3618501ff1cdb4a2366a1e72763e/transformed/jetified-crashlytics-core-2.7.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

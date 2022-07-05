@@ -1,0 +1,14 @@
+com/edocket/ReactNativeFlipper.java
+ com.edocket.ReactNativeFlipper
+ com.edocket.ReactNativeFlipper$1
+ com.edocket.ReactNativeFlipper$2
+ com.edocket.ReactNativeFlipper$2$1
+com/edocket/driver/BuildConfig.java
+ com.edocket.driver.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/edocket/driver/MainActivity.java
+ com.edocket.driver.MainActivity
+com/edocket/driver/MainApplication.java
+ com.edocket.driver.MainApplication
+ com.edocket.driver.MainApplication$1

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-firestore:19.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a96ff1f8843cbf1ab8adc4879aa322ef/transformed/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bb3dba9ea7e81aeef1b3301da584112a/transformed/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0379b0c715867803b36d5cbd9e58cc44/transformed/jetified-firebase-firestore-19.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c67905667b247babbcb12b520ca0789d/transformed/jetified-firebase-firestore-19.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c67905667b247babbcb12b520ca0789d/transformed/jetified-firebase-firestore-19.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c67905667b247babbcb12b520ca0789d/transformed/jetified-firebase-firestore-19.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/19.0.2/1531281358770081af9b7cf0401a02d9b456f958/firebase-firestore-19.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
